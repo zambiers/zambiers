@@ -1,10 +1,10 @@
 <h1 align='center'>🙌🏼 Heya Soldier! I'm Avah Afshari 🙌🏼</h1>
 
-> Computer Science and Software Engineering Major -
-> University of Washington Bothell
+<p align='center'> Computer Science and Software Engineering 📚 University of Washington Bothell </p>
 
-<p align='center'>
-  <a href="https://www.aafshari.site/" target="_blank">
+<p align="center">
+  <a href="https://www.aafshari.site/" target="_blank" style="color: white; text-decoration: none;">
+    <strong>Link to Portfolio Website</strong><br/>
     <img src="https://www.aafshari.site/favicon.ico" alt="Portfolio" width="32"/>
   </a>
 </p>
@@ -35,7 +35,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>    
 </p>
 
-
 ---
 <h3 align='center'>📱 Contact Me 📠</h3>
+<p align='center'>
+    <a href="https://github.com/zambiers" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/avah-afshari/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+      </a>
+</p>
+
 
